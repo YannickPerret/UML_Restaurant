@@ -2,7 +2,7 @@
 
 class Waiter
 {
-    protected  $order = [];
+    private  $order = [];
 
     public function take (Order $order){
 

@@ -1,5 +1,5 @@
 <?php
     class Table {
-        protected Order $order;
+        private Order $order;
 
     }
